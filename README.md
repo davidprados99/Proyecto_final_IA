@@ -112,3 +112,8 @@ Evaluación y comparativa de las siguientes métricas de los dos algoritmos:
 El proyecto evidencia que es posible predecir la presencia de alteraciones lumbares que provoquen a su vez dolor lumbar, a través de medidas biomecánicas. La regresión logística, por su simplicidad y capacidad de interpretación, parece ser más adecuada para aplicaciones clínicas donde la  predicción es la clave para el éxito del modelo. Sin embargo, Random Forest sigue  siendo útil para interpretar interacciones más complejas y evaluar la relevancia de  las variables. 
 Como posible mejora, un dataset más amplio con mayor número de  observaciones, especialmente de la clase “Normal”, podría mejorar la capacidad  de predicción y permitir desarrollar un modelo predictivo de mayor calidad. 
 Este enfoque combina conocimiento clínico y técnicas de Machine Learning,  proporcionando una herramienta potencial para la identificación temprana de pacientes con riesgo de dolor lumbar y apoyando la toma de decisiones del  fisioterapeuta. 
+
+---
+
+**Autor:** David Prados Medina 
+**Curso:** Certificado de Big Data & IA - UAX 2026  
